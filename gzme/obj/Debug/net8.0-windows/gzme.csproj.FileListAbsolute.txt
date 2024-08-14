@@ -1,0 +1,16 @@
+C:\Users\D413\Desktop\수강생413\이선우\gzme\bin\Debug\net8.0-windows\gzme.exe
+C:\Users\D413\Desktop\수강생413\이선우\gzme\bin\Debug\net8.0-windows\gzme.deps.json
+C:\Users\D413\Desktop\수강생413\이선우\gzme\bin\Debug\net8.0-windows\gzme.runtimeconfig.json
+C:\Users\D413\Desktop\수강생413\이선우\gzme\bin\Debug\net8.0-windows\gzme.dll
+C:\Users\D413\Desktop\수강생413\이선우\gzme\bin\Debug\net8.0-windows\gzme.pdb
+C:\Users\D413\Desktop\수강생413\이선우\gzme\obj\Debug\net8.0-windows\gzme.csproj.GenerateResource.cache
+C:\Users\D413\Desktop\수강생413\이선우\gzme\obj\Debug\net8.0-windows\gzme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\D413\Desktop\수강생413\이선우\gzme\obj\Debug\net8.0-windows\gzme.AssemblyInfoInputs.cache
+C:\Users\D413\Desktop\수강생413\이선우\gzme\obj\Debug\net8.0-windows\gzme.AssemblyInfo.cs
+C:\Users\D413\Desktop\수강생413\이선우\gzme\obj\Debug\net8.0-windows\gzme.csproj.CoreCompileInputs.cache
+C:\Users\D413\Desktop\수강생413\이선우\gzme\obj\Debug\net8.0-windows\gzme.dll
+C:\Users\D413\Desktop\수강생413\이선우\gzme\obj\Debug\net8.0-windows\refint\gzme.dll
+C:\Users\D413\Desktop\수강생413\이선우\gzme\obj\Debug\net8.0-windows\gzme.pdb
+C:\Users\D413\Desktop\수강생413\이선우\gzme\obj\Debug\net8.0-windows\gzme.genruntimeconfig.cache
+C:\Users\D413\Desktop\수강생413\이선우\gzme\obj\Debug\net8.0-windows\ref\gzme.dll
+C:\Users\D413\Desktop\수강생413\이선우\gzme\obj\Debug\net8.0-windows\gzme.Properties.Resources.resources
